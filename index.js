@@ -1,9 +1,3 @@
-// 42b3681120888e20afa68bd818c3498a
-
-//api.openweathermap.org/data/2.5/weather?q=Surat,units=mertic&appid={1a676f858dee9c1e91f4cc66ec76b68e}
-
-//1a676f858dee9c1e91f4cc66ec76b68e
-
 const http = require("http");
 const fs = require("fs");
 var requests = require("requests");
